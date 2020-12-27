@@ -9,10 +9,10 @@
 I love to create and develop things that make our lives more meaningful and productive.
 <br>
 
-### About Me 🚀
-- 🔭 I’m currently involved in Competitive Programming.
-- 📈 Highly passionate about Data Science and Machine Learning.
-- 🤓 I’m looking to collaborate with Python 🐍 projects.
+### About Me: 
+
+- Highly passionate about Data Science and Machine Learning.
+- I’m looking to collaborate with Native Android app development projects.
 
 ### Connect with me:
 
