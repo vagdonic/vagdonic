@@ -6,13 +6,13 @@
 	<img src="https://badges.pufler.dev/repos/vagdonic" alt="vagdonic" /> 
 </p>
 
-I love to create and develop things that make our lives more meaningful and productive.
+I love to CREATE and DEVELOP things that make our lives more meaningful and productive.
 <br>
 
 ### About Me 🚀
 - 🔭 I’m currently involved in Competitive Programming.
 - 📈 Highly passionate about Data Science and Machine Learning.
-- 🤓 I’m looking to collaborate with Python 🐍 projects.
+- 🤓 I’m looking to collaborate with Python projects.
 
 ### Connect with me:
 
