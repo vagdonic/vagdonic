@@ -6,15 +6,13 @@
 	<img src="https://badges.pufler.dev/repos/vagdonic" alt="vagdonic" /> 
 </p>
 
-I am an undergrad student pursuing a Bachelor's degree in Computer Engineering from L.J. Institute of Engineering and Technology who is obsessed with the idea of improving himself and wants a platform to grow and excel.
+I love to create and develop things that make our lives more meaningful and productive.
 <br>
 
 ### About Me 🚀
 - 🔭 I’m currently involved in Competitive Programming.
 - 📈 Highly passionate about Data Science and Machine Learning.
 - 🤓 I’m looking to collaborate with Python 🐍 projects.
-- 📫 How to reach me  [🌐](https://dhhruv.github.io)
-- 📝 See my [Resume](https://dhhruv.github.io/assets/Dhruv's%20Resume.pdf) to get more info.
 
 ### Connect with me:
 
