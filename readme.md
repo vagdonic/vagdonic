@@ -6,7 +6,7 @@
 	<img src="https://badges.pufler.dev/repos/vagdonic" alt="vagdonic" /> 
 </p>
 
-I love to create and develop things that make our lives more meaningful and productive.
+### I love to create and develop things that make our lives more meaningful and productive.
 <br>
 
 ### About Me 🚀
