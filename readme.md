@@ -7,7 +7,6 @@
 </p>
 
 ### I love to create and develop things that make our lives more meaningful and productive.
-<br>
 
 ## About Me 🚀
 - 🔭 I’m currently involved in Competitive Programming.
