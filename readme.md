@@ -20,6 +20,6 @@ I love to create and develop things that make our lives more meaningful and prod
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/manav.vagdoda/)
 [<img align="left" alt="codeSTACKr | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:180320107529.ce.manavvg@gmail.com)
 <br>
-<p align="center">
+<p>
  <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
 </p>
