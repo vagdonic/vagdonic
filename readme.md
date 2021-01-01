@@ -2,7 +2,7 @@
 ## Hello, this is Manav! 👋
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=vagdonic" alt="vagdonic" /> 
-	<a href="https://github.com/vagdonic?tab=repositories"><img src="https://badges.pufler.dev/repos/vagdonic" alt="vagdonic"> </a>
+	<a href="https://github.com/vagdonic?tab=repositories"><img src="https://badges.pufler.dev/repos/vagdonic" alt="vagdonic" /> </a>
 </p>
 
 I love to create and develop things that make our lives more meaningful and productive.
