@@ -1,20 +1,15 @@
-## Hello, I'm Manav Vagdoda. 👋
-<p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=vagdonic" alt="vagdonic" /> 
-	<a href="https://github.com/vagdonic?tab=repositories"><img src="https://badges.pufler.dev/repos/vagdonic" alt="vagdonic" /> </a>
-</p>
+# Hello, I'm Manav! 👋
 
-I love to create and develop things that make our lives more meaningful and productive.
-
-## About Me 🚀
-- 🔭 I’m currently involved in Competitive Programming.
-- 📈 Highly passionate about Machine Learning.
-- 🤓 I’m looking to collaborate with Android App development projects.
+## About Me:
+I love to CREATE and DEVELOP things that make our lives more meaningful and productive.
+- I’m currently involved in development of an Android application.
+- Highly passionate about learning new things.
+- I’m looking to collaborate with Python and JavaScript projects.
 
 ## My Stats:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vagdonic&show_icons=true" alt="vagdonic" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagdonic&layout=compact" alt="vagdonic" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vagdonic&show_icons=true" alt="vagdonic" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagdonic&layout=compact" alt="vagdonic" /> </p>
 
 ## Connect with me:
 
