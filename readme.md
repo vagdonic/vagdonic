@@ -1,7 +1,6 @@
 # Hello, I'm Manav! 👋
 
-## About Me:
-I love to CREATE and DEVELOP things that make our lives more meaningful and productive.
+### I love to CREATE and DEVELOP things that make our lives more meaningful and productive.
 - I’m currently involved in development of an Android application.
 - Highly passionate about learning new things.
 - I’m looking to collaborate with Python and JavaScript projects.
