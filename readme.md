@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/41104244/103438316-13536e80-4c58-11eb-8627-4ae6fe0a79c5.png">
+	<img src="https://user-images.githubusercontent.com/41104244/103438341-5281bf80-4c58-11eb-9d24-b9b3545358a6.png">
 </p>
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=vagdonic" alt="vagdonic" /> 
