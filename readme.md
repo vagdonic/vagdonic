@@ -1,5 +1,5 @@
 
-### Hello, this is Manav Vagdoda. 👋
+## Hello, this is Manav Vagdoda. 👋
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=vagdonic" alt="vagdonic" /> 
@@ -9,12 +9,12 @@
 ### I love to create and develop things that make our lives more meaningful and productive.
 <br>
 
-### About Me 🚀
+## About Me 🚀
 - 🔭 I’m currently involved in Competitive Programming.
 - 📈 Highly passionate about Machine Learning.
 - 🤓 I’m looking to collaborate with Android App development projects.
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vagdonic/)
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/manav.vagdoda/)
