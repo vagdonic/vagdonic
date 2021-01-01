@@ -1,5 +1,5 @@
 
-## Hello, this is Manav Vagdoda. 👋
+## Hello, this is Manav! 👋
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=vagdonic" alt="vagdonic" /> 
