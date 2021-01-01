@@ -10,7 +10,7 @@ I love to create and develop things that make our lives more meaningful and prod
 - 🔭 I’m currently involved in Competitive Programming.
 - 📈 Highly passionate about Machine Learning.
 - 🤓 I’m looking to collaborate with Android App development projects.
-<br>
+
 ## My Stats:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vagdonic&show_icons=true" alt="vagdonic" /> </p>
