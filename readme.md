@@ -1,4 +1,4 @@
-# hey! i'm Manav.
+# hello,  i'm Manav.
 
 ### I love to CREATE and DEVELOP things that make our lives more meaningful and productive.
 - I’m currently involved in development of an Android application.
