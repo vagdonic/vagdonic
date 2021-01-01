@@ -5,7 +5,6 @@
 	<img src="https://komarev.com/ghpvc/?username=vagdonic" alt="vagdonic" /> 
 	<img src="https://badges.pufler.dev/repos/vagdonic" alt="vagdonic" /> 
 </p>
-
 I love to create and develop things that make our lives more meaningful and productive.
 
 ## About Me 🚀
