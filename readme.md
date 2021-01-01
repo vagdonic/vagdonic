@@ -1,5 +1,7 @@
 
-## Hello, this is Manav! 👋
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/41104244/103438291-ccfe0f80-4c57-11eb-9a26-a2d45ddc1117.jpg">
+</p>
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=vagdonic" alt="vagdonic" /> 
 	<a href="https://github.com/vagdonic?tab=repositories"><img src="https://badges.pufler.dev/repos/vagdonic" alt="vagdonic" /> </a>
