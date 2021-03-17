@@ -2,7 +2,7 @@
 ### I love to CREATE and DEVELOP things that make our lives more meaningful and productive.
 - I’m currently involved in development of a Chat Application using <b> ReactJS</b>.
 - Highly passionate about learning new things.
-- I’m looking to collaborate with Python and JavaScript projects.
+- I’m looking to collaborate with <b>Python</b> and <b>JavaScript</b> projects.
 
 ## My Stats:
 
