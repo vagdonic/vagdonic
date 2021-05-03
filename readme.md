@@ -1,6 +1,6 @@
 # Hello, I'm Manav.
 ### I love to CREATE and DEVELOP things that make our lives more meaningful and productive.
-- I’m currently involved in development of a Chat Application using <b>php</b>.
+- I’m currently involved in understanding and learning the Ethereum Blockchain.
 - Highly passionate about learning new things.
 - I’m looking to collaborate with <b>Python</b> and <b>JavaScript</b> projects.
 
