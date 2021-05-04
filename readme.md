@@ -2,7 +2,7 @@
 ### I love to CREATE and DEVELOP things that make our lives more meaningful and productive.
 - I’m currently involved in understanding and learning how to build DApps on the Ethereum Blockchain.
 - Highly passionate about learning new things.
-- I’m looking to collaborate with <b>Python</b> and <b>JavaScript</b> projects.
+- I’m looking to collaborate with <b>Python</b> and <b>JavaScript</b> projects as well.
 
 ## My Stats:
 
